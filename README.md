@@ -1,2 +1,5 @@
-# react-rock-paper-scissors
-React JS  Rock Paper Scissors GAME
+# Rock Paper Scissors app
+
+
+
+Built with react.js and redux
