@@ -33,12 +33,12 @@
   "engines": {
     "node": "5.x"
   },
-  "homepage": "",
+  "homepage": "https://github.com/ZaynahGiti/react-rock-paper-scissors",
   "keywords": [],
   "license": "MIT",
   "main": "index.js",
   "repository": {
-    "url": ""
+    "url": "https://github.com/ZaynahGiti/react-rock-paper-scissors"
   },
   "scripts": {
     "postinstall": "NODE_ENV=production webpack -p --config webpack.production.config.js",
